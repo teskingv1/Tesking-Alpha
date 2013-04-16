@@ -1,4 +1,6 @@
-alpha
+Tesking
 =====
 
-the alpha version of tesking. 
+http://www.hwmaster.com
+
+This is the alpha version of tesking. 
